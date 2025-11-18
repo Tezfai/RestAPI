@@ -14,7 +14,7 @@ Structured error handling with proper HTTP status codes
 
 Example database + data utilities included
 
-**🛠 Tech Stack**
+**🛠 Tech Stack Used**
 
 Runtime: Node.js
 
